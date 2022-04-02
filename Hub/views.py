@@ -1,4 +1,3 @@
-from asyncio.windows_events import NULL
 from xmlrpc.client import boolean
 from django.http import HttpResponse
 from django.shortcuts import render, redirect
